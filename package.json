@@ -1,0 +1,19 @@
+{
+  "name": "js-weird-parts",
+  "version": "1.0.0",
+  "description": "learning weird parts of JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaydubey01/js-weird-parts.git"
+  },
+  "author": "Vinay Dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaydubey01/js-weird-parts/issues"
+  },
+  "homepage": "https://github.com/vinaydubey01/js-weird-parts#readme"
+}
